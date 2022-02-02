@@ -12,4 +12,4 @@
 ## 4.1-Parametrizar wordpress: tipo de4 servicio y nombre del blog
 ## 4.2-Comprobación de los objetos creados
 ## 4.3-Acceso a la aplicación
-## 5-Referencias
+## 5-[Referencias](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/archivos/referencias.md)
