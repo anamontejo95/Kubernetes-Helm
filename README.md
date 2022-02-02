@@ -1,6 +1,6 @@
 # Kubernetes-Helm
 
-#Índice
+# Índice
 ## 1-¿Qué es Helm? ¿Qué son los charts?
 ## 2-Instalación de Helm
 ## 3-Trabajando con repositorios
