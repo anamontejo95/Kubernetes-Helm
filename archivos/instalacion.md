@@ -9,4 +9,15 @@ Set-ExecutionPolicy AllSigned
 
 A continuación, con el siguiente comando instalamos Chocolatey:  
 
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))  
+
+Para comprobarlo, usamos el comando "choco" y veremos la versión que hemos descargado.  
+
+## Instalar Helm  
+Una vez tenemos instalado Chocolatey solo tenemos que poner el comando:  
+
+>>choco install-kubernetes-helm  
+
+Y ya tendríamos instalado Helm, lo comprobamos con el comando:  
+
+>>helm
