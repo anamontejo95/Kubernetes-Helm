@@ -1,7 +1,7 @@
 # Kubernetes-Helm
 
 # Índice
-## 1-¿Qué es Helm? ¿Qué son los charts?
+## 1-[¿Qué es Helm? ¿Qué son los charts?](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/archivos/helmycharts.md)
 ## 2-Instalación de Helm
 ## 3-Trabajando con repositorios
 ## 3.1-Listar repositorios
