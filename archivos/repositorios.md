@@ -33,5 +33,8 @@ La primera es hacerlo a través de la página [ArtifactHub](https://artifacthub.
 
 En esta página podemos buscar directamente los charts que nos interese e instalarlos.  
 Vamos a buscar el charts de nginx en el repositorio de bitnami. Escribimos en el buscador "nginx"  
-y selecionamos la opción que nos interesa.
+y selecionamos la opción que nos interesa.  
+![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/3.PNG)  
+Otro ejemplo con wordpress:  
+
 Al entrar en el chart os da la opción "install" y nos proporciona el comando que tenemos que ejecutar en la línea de comandos.  
