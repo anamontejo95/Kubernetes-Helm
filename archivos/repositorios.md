@@ -28,8 +28,10 @@ En este caso borro el repositorio de bitnami por lo tanto la sintaxis sería la 
 ## 3.4-Buscar charts:nginx, wordpress  
 
 Para buscar los charts, tenemos dos opciones:  
-La primera es hacerlo a través de la página [ArtifactHub](https://artifacthub.io/)  
+La primera es hacerlo a través de la página [ArtifactHub](https://artifacthub.io/)   
+![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/2.PNG)  
+
 En esta página podemos buscar directamente los charts que nos interese e instalarlos.  
 Vamos a buscar el charts de nginx en el repositorio de bitnami. Escribimos en el buscador "nginx"  
-y selecionamos la opción que nos interesa.  
+y selecionamos la opción que nos interesa.
 Al entrar en el chart os da la opción "install" y nos proporciona el comando que tenemos que ejecutar en la línea de comandos.  
