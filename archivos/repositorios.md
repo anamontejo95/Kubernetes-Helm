@@ -39,3 +39,14 @@ Otro ejemplo con wordpress:
 ![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/5.PNG)  
 
 Al entrar en el chart os da la opción "install" y nos proporciona el comando que tenemos que ejecutar en la línea de comandos.  
+
+La otra opción es hacerlo desde la línea de comandos. Primero buscamos los charts con el comando:  
+>>helm search repo nombre_charts
+
+![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/chartsPS.PNG)  
+
+Elegimos el que nos interesa (en mi caso la primera opción) y ejecutamos el comando:  
+>>helm install nombre_interno bitnami/nginx  
+  
+Comprobamos que se ha creado:  
+
