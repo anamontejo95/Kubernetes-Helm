@@ -4,7 +4,8 @@
  
 ## 3.1-Listar repositorios  
   Para ver los repositorios que tenemos añadidos en Helm utilizamos el siguiente comando:  
-  >>helm repo list
+  >>helm repo list 
+  
   ![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/1.PNG)
 ## 3.2-Añadir repositorios: Bitnami  
 ## 3.3-Quitar repositorios  
