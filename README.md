@@ -5,4 +5,5 @@
 ## 2-[Instalación de Helm](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/archivos/instalacion.md)
 ## 3-[Trabajando con repositorios](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/archivos/repositorios.md)
 ## 4-Caso práctico: instalar wordpress
-## 5-[Referencias](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/archivos/referencias.md)
+## 5-[Referencias](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/archivos/referencias.md)  
+![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/licencia.png)
