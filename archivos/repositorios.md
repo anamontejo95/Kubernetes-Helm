@@ -25,4 +25,11 @@ Si lo que queremos es borrar algún repositorio solo tenemos que usar el comando
 En este caso borro el repositorio de bitnami por lo tanto la sintaxis sería la siguiente:  
 ![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/4.PNG)  
 
-## 3.4-Buscar charts:nginx, wordpress
+## 3.4-Buscar charts:nginx, wordpress  
+
+Para buscar los charts, tenemos dos opciones:  
+La primera es hacerlo a través de la página [ArtifactHub](https://artifacthub.io/)  
+En esta página podemos buscar directamente los charts que nos interese e instalarlos.  
+Vamos a buscar el charts de nginx en el repositorio de bitnami. Escribimos en el buscador "nginx"  
+y selecionamos la opción que nos interesa.  
+Al entrar en el chart os da la opción "install" y nos proporciona el comando que tenemos que ejecutar en la línea de comandos.  
