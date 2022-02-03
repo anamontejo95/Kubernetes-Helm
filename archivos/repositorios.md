@@ -18,4 +18,11 @@ Y comprobarlo con el comando:
 que hemos usado anteriormente para ver los repositorios.  
 
 ## 3.3-Quitar repositorios  
+
+Si lo que queremos es borrar algún repositorio solo tenemos que usar el comando:  
+>>helm repo remove nombre_repositorio  
+
+En este caso borro el repositorio de bitnami por lo tanto la sintaxis sería la siguiente:  
+![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/4.PNG)  
+
 ## 3.4-Buscar charts:nginx, wordpress
