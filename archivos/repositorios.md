@@ -34,7 +34,7 @@ La primera es hacerlo a través de la página [ArtifactHub](https://artifacthub.
 En esta página podemos buscar directamente los charts que nos interese e instalarlos.  
 Vamos a buscar el charts de nginx en el repositorio de bitnami. Escribimos en el buscador "nginx"  
 y selecionamos la opción que nos interesa.  
-![a]()  
+![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/nginx.PNG)  
 Otro ejemplo con wordpress:  
 ![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/5.PNG)  
 
