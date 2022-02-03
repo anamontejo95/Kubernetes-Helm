@@ -46,7 +46,9 @@ La otra opción es hacerlo desde la línea de comandos. Primero buscamos los cha
 ![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/chartsPS.PNG)  
 
 Elegimos el que nos interesa (en mi caso la primera opción) y ejecutamos el comando:  
->>helm install nombre_interno bitnami/nginx  
+>>helm install nombre_interno bitnami/nginx    
+
+![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/charts2.PNG)
   
 Comprobamos que se ha creado:  
 
