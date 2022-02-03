@@ -52,3 +52,5 @@ Elegimos el que nos interesa (en mi caso la primera opción) y ejecutamos el com
   
 Comprobamos que se ha creado:  
 
+![a](https://github.com/anamontejo95/Kubernetes-Helm/blob/main/imagenes/charts3.PNG)
+
