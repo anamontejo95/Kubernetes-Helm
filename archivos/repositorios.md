@@ -10,8 +10,11 @@
 ## 3.2-Añadir repositorios: Bitnami  
 Para añadir el repositorio de Bitnami solo tenemos que introducir el siguiente comando:  
 >>helm repo add bitnami https://charts.bitnami.com/bitnami  
+ 
 Y comprobarlo con el comando:  
->>helm repo list  
+
+>>helm repo list    
+
 que hemos usado anteriormente para ver los repositorios.  
 
 ## 3.3-Quitar repositorios  
