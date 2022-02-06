@@ -18,7 +18,7 @@ Para comprobarlo, usamos el comando "choco" y veremos la versión que hemos desc
 ## Instalar Helm  
 Una vez tenemos instalado Chocolatey solo tenemos que poner el comando:  
 
->>choco install-kubernetes-helm  
+>>choco install kubernetes-helm  
 
 Y ya tendríamos instalado Helm, lo comprobamos con el comando:  
 
